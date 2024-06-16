@@ -3314,3 +3314,24 @@ input, select, textarea {
 			}
 
 	}
+
+	.contact-info {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	
+	.contact-info li {
+		margin-bottom: 1em;
+	}
+	
+	.contact-info a {
+		display: inline-block;
+		margin-right: 1em;
+		text-decoration: none;
+		color: #000;
+	}
+	
+	.contact-info .icon {
+		margin-right: 0.5em;
+	}
