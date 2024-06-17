@@ -1928,7 +1928,7 @@ input, select, textarea {
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: #fafafa;
+				background: #000;
 				border-radius: 5px;
 				border: solid 2px #e4e4e4;
 				content: '';
@@ -2455,7 +2455,7 @@ input, select, textarea {
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #fafafa;
+				background-color: #000;
 			}
 
 		table td {
@@ -2839,7 +2839,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #000;
 		border-top: 0;
 		color: #000;
 		overflow: hidden;
