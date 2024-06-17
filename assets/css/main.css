@@ -1928,7 +1928,7 @@ input, select, textarea {
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: #000;
+				background: #fafafa;
 				border-radius: 5px;
 				border: solid 2px #e4e4e4;
 				content: '';
@@ -2455,7 +2455,7 @@ input, select, textarea {
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #000;
+				background-color: #fafafa;
 			}
 
 		table td {
@@ -2825,7 +2825,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #000;
 	}
 
 		#main > section > .container {
@@ -2839,9 +2839,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #000;
+		background: #fafafa;
 		border-top: 0;
-		color: #000;
+		color: #c0c0c0;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
