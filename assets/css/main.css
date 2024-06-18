@@ -3340,25 +3340,4 @@ input, select, textarea {
 		color: black;
 	}
 
-	.features article .image {
-		display: inline-block;
-		padding-right: 2.5em;
-		vertical-align: middle;
-		width: 48%;
-		text-align: center; /* Center the icon */
-	}
-	
-	.features article .image i.fa-mug-saucer {
-		display: inline-block;
-		width: 688px;
-		height: 397px;
-		font-size: 688px; /* This will scale the icon to the required size */
-		line-height: 397px; /* Vertically center the icon */
-	}
-	
-	.features article .inner {
-		display: inline-block;
-		vertical-align: middle;
-		width: 50%;
-	}
 	
